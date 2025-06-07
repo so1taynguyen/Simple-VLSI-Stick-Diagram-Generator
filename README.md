@@ -33,8 +33,7 @@
 </details>
 
 ## About The Project
-
-* This project is a C++-based Simple VLSI Stick Diagram Generator that creates CMOS stick diagrams from Boolean logic expressions. Using SFML for visualization, it constructs NMOS and PMOS transistor networks, supports series/parallel configurations, and optimizes layouts with Euler path computation.
+This project is a C++-based Simple VLSI Stick Diagram Generator that creates CMOS stick diagrams from Boolean logic expressions. Using SFML for visualization, it constructs NMOS and PMOS transistor networks, supports series/parallel configurations, and optimizes layouts with Euler path computation.
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
